@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Moordevelopee
-- 👀 I’m interested in Frontend Engineering
-- 🌱 I’m currently learning Html css and JavaScript
+- 👋 Hi, I’m @ NubiaDev
+- 👀 I am  a Frontend Developer 
+- 🌱 i work with React Js and everything about js
 - 💞️ I’m looking to collaborate on Live Projects
 - 📫 How to reach me @JohnAjaiyeoba on Twitter
 
